@@ -31,3 +31,7 @@ button {
   justify-content: center;
   align-items: center;
 }
+
+.header h2 {
+  font-size: 32px;
+}
