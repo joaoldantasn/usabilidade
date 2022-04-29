@@ -1,7 +1,4 @@
-body {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 1.2rem;
-}
+@import "./global.css";
 
 label {
   display: block;
@@ -24,4 +21,13 @@ button {
   border: none;
   display: block;
   margin-top: 30px;
+}
+
+.header-bg {
+  background-color: blue;
+}
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
